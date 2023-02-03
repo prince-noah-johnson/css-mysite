@@ -15,14 +15,13 @@ h1 {
     font-family: 'Sacramento', cursive;
     font-size: 90px;
     color: #66bfbf;
-    line-height: 2;
 }
 
 h2 {
     font-family: 'Montserrat', sans-serif;
     font-size: 2.5rem;
     color: #66bfbf;
-    font-weight: normal;
+    font-weight: bold;
 }
 
 h3 {
@@ -44,6 +43,11 @@ h3 {
 
 .footer-link {
     color: #11999e;
+}
+
+.skill-row {
+    width: 50%;
+    margin: auto;
 }
 
 .middle-container {
